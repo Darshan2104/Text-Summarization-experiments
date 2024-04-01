@@ -1,6 +1,9 @@
 # Text-Summarization-experiments On News Data
 This repo contains the experiments that I did as a part of my research work on Abstractive Text Summarization.
 
+- [Hear](https://github.com/Darshan2104/Text-Summarization-experiments/tree/main/Scripts) is a script I used for training.
+- [Here](https://github.com/Darshan2104/Text-Summarization-experiments/blob/main/Presentation%20of%20Research%20paper/CE137_Darshan_Tank_Reporting_Final.pdf) is a detailed report of the whole experiment.
+
 **Tech stack:**
 ````
 * Huggingface
@@ -33,5 +36,4 @@ This repo contains the experiments that I did as a part of my research work on A
 - text to headline was better compared to summary to headline.
 ```
 
-- [Hear](Scripts) is a script I used for training.
-- [Here](https://github.com/Darshan2104/Text-Summarization-experiments/blob/main/Presentation%20of%20Research%20paper/PEGASUS%20-%20Presentation.pdf) is a detailed report of the whole experiment.
+
